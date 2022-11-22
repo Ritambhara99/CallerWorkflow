@@ -7,4 +7,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: Ritambhara99/ReuseableWorkflow/.github/workflows/blank.yml
+    uses: Ritambhara99/ReuseableWorkflow/.github/workflows/blank.yml@all
